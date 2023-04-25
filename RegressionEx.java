@@ -7,6 +7,7 @@ public class RegressionEx {
 	@Test(groups = "smoketest")
 	public void m2()
 	{
+		//jenkins
 		System.out.println("method2 running");
 	}
 }
