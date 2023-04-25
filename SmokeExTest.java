@@ -10,4 +10,8 @@ public class SmokeExTest {
 		System.out.println("method1 running");
 	}
 	//pushed and pulling back
+	
+	//push jenkins
 }
+
+
